@@ -39,10 +39,10 @@ You need to have following in order for this library to work as expected
 
 ### Installing
 
-Always use the latest release. Use following command with appropriate version no(v1.4) in this particular case to install. You can find the link for the latest release in the release section of this github repo
+Always use the latest release. Use following command with appropriate version no(v1.2) in this particular case to install. You can find the link for the latest release in the release section of this github repo
 
 ```
-pip install https://github.com/ai-med/nn-common-modules/releases/download/v1.1/nn_common_modules-1.4-py3-none-any.whl
+pip install https://github.com/ai-med/nn-common-modules/releases/download/v1.2/nn_common_modules-1.4-py3-none-any.whl
 ```
 
 ## Authors
