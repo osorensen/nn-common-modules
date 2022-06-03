@@ -17,7 +17,7 @@ import torch
 import torch.nn as nn
 from squeeze_and_excitation import squeeze_and_excitation as se
 import torch.nn.functional as F
-from octave_convolution_block import *
+
 
 class DenseBlock(nn.Module):
     """Block with dense connections
